@@ -59,10 +59,10 @@ void prtprmpt(int i)
 {
 if (i == 0)
 {
-write(1, "USH$ ", strleng("USH$ "));
+write(1, "KOTM-B$ ", strleng("KOTM-B$ "));
 }
 else if (i == 1)
 {
-write(1, "ush> ", strleng("ush> "));
+write(1, "kotm-b> ", strleng("kotm-b> "));
 }
 }
